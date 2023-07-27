@@ -36,6 +36,8 @@ module.exports = {
       },
       backgroundImage: {
         hero: 'url("/images/hero.jpg")',
+        'hero-mp4': 'url("/video/hero.mp4")', // Add the mp4 version
+        // hero: 'url("/video/hero.mp4")',
         // newsletter: 'url("/src/assets/img/newsletter.png")',
       },
       dropShadow: {
